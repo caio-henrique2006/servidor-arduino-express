@@ -1,0 +1,20 @@
+{
+  "name": "servidor-arduino-express",
+  "version": "1.0.0",
+  "description": "Servidor de conexão de dados puxados do arduino para o servidor",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "arduino",
+    "servidor",
+    "expressJs",
+    "Node"
+  ],
+  "author": "Caio Henrique (projeto de robótica armangers)",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
